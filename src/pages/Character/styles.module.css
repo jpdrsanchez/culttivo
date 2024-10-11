@@ -1,0 +1,19 @@
+.form {
+  padding: 80px 0;
+  max-width: 1000px;
+  margin-inline: auto;
+  display: grid;
+  gap: 10px;
+}
+
+.form-wrapper {
+  display: grid;
+  gap: 10px;
+}
+
+.input {
+  display: block;
+  width: 100%;
+  padding: 10px 5px;
+  margin-top: 4px;
+}
